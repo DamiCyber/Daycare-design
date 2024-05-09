@@ -8,8 +8,11 @@
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
-  overflow-x: hidden;
 }
+/* .cover{
+  overflow: hidden;
+
+} */
 .big-container {
   line-height: 80px;
   text-align: center;
@@ -306,7 +309,7 @@
     margin-left: 10px;
   }
   .hero-png img {
-    width: 400px;
+    width: 350px;
   }
   .btn {
     display: none;
@@ -339,7 +342,7 @@
     width: 100%;
   }
   .about-png img {
-    width: 350px;
+    width: 330px;
   }
   .about h2 {
     margin-left: 20px;
