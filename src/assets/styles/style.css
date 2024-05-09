@@ -26,7 +26,7 @@
 .nav-link {
   margin-top: 40px;
   margin-left: 30px;
-  color: #df6c2d;
+  color: #9773b9;
 }
 .btn button {
   color: white;
@@ -54,7 +54,7 @@
 .btn2 {
   line-height: 20px;
   color: white;
-  background-color: #df6c2d;
+  background-color: #9773b9;
   cursor: pointer;
   border: none;
   width: 160px;
@@ -74,7 +74,7 @@
 
 .head {
   padding: 20px;
-  color: #df6c2d;
+  color: #9773b9;
   line-height: 30px;
   text-align: center;
 }
@@ -88,7 +88,7 @@
   text-align: center;
   padding: 40px;
   line-height: 30px;
-  color: #df6c2d;
+  color: #9773b9;
 }
 .about h2 {
   font-size: 35px;
@@ -151,7 +151,7 @@
 .hero3 h1 {
   padding: 30px;
   text-align: center;
-  color: #df6c2d;
+  color: #9773b9;
 }
 .hero3 p {
   margin-left: 400px;
@@ -163,7 +163,7 @@
 .btn3 {
   line-height: 20px;
   color: white;
-  background-color: #df6c2d;
+  background-color: #9773b9;
   cursor: pointer;
   border: none;
   width: 160px;
