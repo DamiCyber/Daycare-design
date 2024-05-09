@@ -414,3 +414,120 @@
     background-color: #edf6f9;
   }
 }
+@media (max-width: 330px) {
+  body{
+    width: 100%;
+  }
+  .logo {
+    margin-top: 8px;
+  }
+  .nav-link {
+    line-height: 95px;
+    margin-left: 5px;
+  }
+  .hero-png img {
+    width: 290px;
+  }
+  .btn {
+    display: none;
+  }
+   button{
+   position: relative;
+   text-align: center;
+   left: 20%;
+  }
+  .hero-section {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .hero h2 {
+    font-size: 23px;
+    text-align: center;
+  }
+  .hero p {
+    text-align: center;
+  }
+
+  .clip {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .allflex-body {
+    display: flex;
+    flex-direction: column;
+    background-color: #f5edd8;
+    width: 100%;
+  }
+  .about-png img {
+    width: 250px;
+  }
+  .about h2 {
+    margin-left: 20px;
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+  }
+  .about p {
+    margin-left: 20px;
+    width: 280px;
+    text-align: center;
+  }
+  .hero3 p {
+    width: 300px;
+    /* margin-left: 2px; */
+  }
+  .move{
+    margin-left: 40px;
+  }
+  .col1 h2 {
+    margin-left: 50px;
+    text-align: center;
+  }
+  .col1 p {
+    width: 290px;
+    margin-left: 15px;
+    text-align: center;
+  }
+  .col2 h2 {
+    width: 250px;
+    margin-left: 60px;
+    text-align: center;
+  }
+  .col2 p {
+    width: 300px;
+    margin-left: 15px;
+    text-align: center;
+  }
+  .program-image img {
+    width: 300px;
+  }
+  .second-col{
+    width: 300px;
+    margin-left: 30px;
+    text-align: center;
+  }
+  .second-col p {
+    width: 300px;
+    margin-left:-15px;
+    text-align: center;
+  }
+  .clo3 h2{
+    width: 300px;
+    text-align: center;
+  }
+  .clo3 p {
+    width: 300px;
+    text-align: center;
+  }
+  .push2{
+    margin-left: 30px;
+  }
+  .btn2{
+    margin-bottom: 10px;
+  }
+  .footer{
+    height: 40vh;
+    background-color: #edf6f9;
+  }
+}
